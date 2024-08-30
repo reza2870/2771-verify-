@@ -1,5 +1,5 @@
 # 2771-verify-
 
-mint.dropzone.bot
+https://mint.dropzone.bot/
 
 Bend captial collection mint site
